@@ -1,0 +1,49 @@
+Set 1
+https://leetcode.com/problems/truncate-sentence/
+https://leetcode.com/problems/shuffle-the-array/
+https://leetcode.com/problems/plus-one/
+https://leetcode.com/problems/excel-sheet-column-title/
+https://leetcode.com/problems/concatenation-of-array/
+https://leetcode.com/problems/left-and-right-sum-differences/
+https://leetcode.com/problems/matrix-diagonal-sum/
+
+Set 2
+https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
+https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
+https://leetcode.com/problems/create-target-array-in-the-given-order/
+https://leetcode.com/problems/decompress-run-length-encoded-list/
+https://leetcode.com/problems/count-items-matching-a-rule/
+https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/
+https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
+
+Set 3
+https://leetcode.com/problems/count-good-triplets/
+https://leetcode.com/problems/find-the-highest-altitude/
+https://leetcode.com/problems/minimum-time-visiting-all-points/
+https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/
+https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/
+https://leetcode.com/problems/number-of-senior-citizens/
+https://leetcode.com/problems/counting-words-with-a-given-prefix/
+
+Set 4
+https://leetcode.com/problems/duplicate-zeros/
+https://leetcode.com/problems/merge-sorted-array/
+https://leetcode.com/problems/remove-element/
+https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+https://leetcode.com/problems/check-if-n-and-its-double-exist/
+https://leetcode.com/problems/valid-mountain-array/
+https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
+https://leetcode.com/problems/sort-array-by-parity/
+
+Set 5
+https://leetcode.com/problems/build-array-from-permutation/
+https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
+https://leetcode.com/problems/largest-local-values-in-a-matrix/
+https://leetcode.com/problems/separate-the-digits-in-an-array/
+https://leetcode.com/problems/find-greatest-common-divisor-of-array/
+https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
+https://leetcode.com/problems/row-with-maximum-ones/
+https://leetcode.com/problems/count-prefixes-of-a-given-string/
+https://leetcode.com/problems/squares-of-a-sorted-array/
+https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/
