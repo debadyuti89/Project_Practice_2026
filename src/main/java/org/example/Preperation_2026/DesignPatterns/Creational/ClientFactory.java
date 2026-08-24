@@ -1,4 +1,4 @@
-package org.example.Preperation_2026.DesignPatterns;
+package org.example.Preperation_2026.DesignPatterns.Creational;
 
 interface PaymentProcessor {
     void process(double amount);

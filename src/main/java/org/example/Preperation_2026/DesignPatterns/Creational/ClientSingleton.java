@@ -1,4 +1,4 @@
-package org.example.Preperation_2026.DesignPatterns;
+package org.example.Preperation_2026.DesignPatterns.Creational;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
